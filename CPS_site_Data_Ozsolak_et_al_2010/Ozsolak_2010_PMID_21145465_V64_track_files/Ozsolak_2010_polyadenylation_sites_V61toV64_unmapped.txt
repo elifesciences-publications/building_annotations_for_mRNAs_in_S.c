@@ -1,0 +1,14 @@
+# Deleted in new
+chr02_2004_07_16	Ozsolak_2010	polyA_site	38912	38920	.	+	.	ID=polyA_site_1304;Name=polyA_site;pA=38915;height=235;reads=526
+# Deleted in new
+chr05_2000_03_16	Ozsolak_2010	polyA_site	305882	305884	.	+	.	ID=polyA_site_24547;Name=polyA_site;pA=305883;height=7;reads=11
+# Partially deleted in new
+chr10_2008_06_04	Ozsolak_2010	polyA_site	99532	99536	.	+	.	ID=polyA_site_44748;Name=polyA_site;pA=99532;height=33;reads=126
+# Partially deleted in new
+chr12_2006_01_13	Ozsolak_2010	polyA_site	1038768	1038771	.	-	.	ID=polyA_site_62229;Name=polyA_site;pA=1038769;height=82;reads=111
+# Partially deleted in new
+chr15_2006_01_06	Ozsolak_2010	polyA_site	210452	210454	.	-	.	ID=polyA_site_77201;Name=polyA_site;pA=210451;height=48;reads=94
+# Partially deleted in new
+chr15_2006_01_06	Ozsolak_2010	polyA_site	414324	414325	.	+	.	ID=polyA_site_78875;Name=polyA_site;pA=414324;height=7;reads=8
+# Partially deleted in new
+chr16_2004_07_23	Ozsolak_2010	polyA_site	698523	698525	.	-	.	ID=polyA_site_89937;Name=polyA_site;pA=698522;height=3;reads=8
